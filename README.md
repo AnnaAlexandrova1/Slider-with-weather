@@ -5,4 +5,4 @@
 * CSS
 * JavaScript
 
-![](https://github.com/AnnaAlexandrova1/Mini-Dashboard/blob/master/Slider_for_readmeMD.png)
+![](https://github.com/AnnaAlexandrova1/Slider-with-weather/blob/master/Slider_for_readmeMD.png)
